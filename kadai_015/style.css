@@ -12,10 +12,7 @@ body {
   color : rgb(255,192,203)
 }
 h1 {
-  font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+ font-family: "Josefin Sans", sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
   border-bottom: solid 3px rgb(115,115,114);
@@ -24,5 +21,4 @@ h1 {
   #basic > p {
     font-weight: bold;
   }
-
 
