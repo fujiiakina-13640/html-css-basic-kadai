@@ -61,7 +61,8 @@ a:hover {
   color: rgb(245,178,168);
 }
 @media screen and (max-width: 768px) {
-    h2 {
-        display: block;
+  #parent {
+    flex-direction: column;
     }
+
   }
